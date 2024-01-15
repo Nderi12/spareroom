@@ -5,8 +5,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import ElementClickInterceptedException
 import time
 
-USERNAME = "satya.evolfast@gmail.com"
-PASSWORD = "Saleshungry123!"
+USERNAME = "" # Add account email address here
+PASSWORD = "" # Add account password here
 
 
 class SpareBot:
